@@ -278,7 +278,7 @@ header #menu{
     height: 10rem;
     width: 10rem;
     z-index: -1;
-    box-shadow: 0 0 0 1rem rgba(0, 0, 255, .1);
+    box-shadow: 0 0 0 1rem rgba(255, 255, 255, 0.877);
 }
 
 .features .box-container .box i{
